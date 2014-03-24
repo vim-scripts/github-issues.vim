@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4903
+
+Allows you to browse issues for the current repository with :Gissues, and populates the omnifunc auto complete in gitcommit filetypes. Detailed information, examples, and animated GIFs over on Github: 
+
+https://github.com/jaxbot/github-issues.vim
+
+Should be drop-in in most cases. Requires Python
